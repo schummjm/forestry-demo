@@ -1,1 +1,5 @@
---- {}
+---
+footer:
+- url: https://www.google.com
+  weight: 4
+  title: Search
